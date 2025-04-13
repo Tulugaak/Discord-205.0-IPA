@@ -4,4 +4,4 @@ An IPA file for Discord 205.0. You can install it with Trollstore or sideload it
 
 **UPDATE: 13 April 2025**
 
-I've added an Enmity IPA to this repo, also on version 205, for those of you who want to install plugins.
+I've added an Enmity IPA to this repo, for those of you who want to install plugins. Though the icon is the same as those of newer Discord versions, it is also on version 205.
