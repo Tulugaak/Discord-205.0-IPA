@@ -4,4 +4,4 @@ An IPA file for Discord 205.0 which can be installed with Trollstore or sideload
 
 **UPDATE: 13 April 2025**
 
-I've added an Enmity IPA to this repo, for those of you who want to install plugins. Though the icon is the same as those of newer Discord versions, it is also on version 205. Be careful of what you install and read the descriptions thoroughly, since some plugins may cause Discord to always crash on startup. I recommend installing the AddonManager plugin first, as well the FixConnecting plugin to fix the bug where it gets stuck on the connecting screen and can't load anything.
+I've added an Enmity IPA to this repo, for those of you who want to install plugins. Though the icon is the same as those of newer Discord versions, it is also on version 205. Be careful of what you install and read the descriptions thoroughly, since some plugins may cause Discord to always crash on startup. I recommend installing the AddonManager plugin first, then the FixConnecting plugin to fix the bug where it gets stuck on the connecting screen and can't load anything.
